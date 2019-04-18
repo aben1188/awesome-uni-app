@@ -50,6 +50,12 @@
 
 - [uni-app官方公布的应用案例列表(由官方持续更新)](https://uniapp.dcloud.io/case)
 
+### 特别说明
+
+uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发），因此mpvue的所有开源资源都可以用于uni-app。
+- [mpvue项目（组件）迁移指南、示例及资源汇总](https://ask.dcloud.net.cn/article/34945)
+- [awesome-mpvue: mpvue官方开发资源汇总](https://github.com/mpvue/awesome-mpvue)
+
 ### 开源项目
 
 - [hello-uniapp: uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
@@ -57,11 +63,14 @@
 - [uni-shop: 用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
 - [ironInfoWeapp: 钢材信息小程序](https://github.com/klren0312/ironInfoWeapp)
 - [得推B2C商城: 基于uniApp开发的支持小程序、iOS、Android的B2C商城](https://github.com/lrjxgl/unishop)
+- [笑一波: 基于uni-app开发的跨平台应用()](https://gitee.com/jameson512/xiaoyibo)
 - [仿QQ音乐: 用uni app框架开发的兼容三端(H5、小程序、App)仿QQ音乐](https://github.com/SuiXiangjun/uniappQQmic)
 - [音乐电子书库: 使用uni-app开发的小程序和安卓App](https://gitee.com/yanglilong127/uniapp_music_library)
 - [仿微信朋友圈: 基于uni-app开发的仿微信朋友圈小程序](https://github.com/liuxiaoyucc/uni-app-moments)
 - [碧波世界: 通过uni-app实现移动端+iOS端+小程序的虚拟币交易应用](https://github.com/qqlcx5/uniapp)
 - [博客小程序: 基于uni-app开发的博客小程序](https://github.com/xieyushi/jpress-uniapp)
+- [cnode社区: 基于uni-app开发的cnode社区开源版](https://github.com/yx-Team/cnode)
+- [DCIM管理系统: 用uni-app开发的DCIM管理系统](https://github.com/Airubby/uniapp)
 
 ### 开源组件
 
