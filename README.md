@@ -6,8 +6,8 @@
 ---
 - [DCloud官方网站](http://dcloud.io/)
 - [DCloud Github首页](https://github.com/dcloudio)
-- [Vue.js Github仓库](https://github.com/vuejs/vue)
 - [Vue.js官方网站](https://cn.vuejs.org/index.html)
+- [Vue.js Github仓库](https://github.com/vuejs/vue)
 <br />
 
 - [uni-app Github仓库](https://github.com/dcloudio/uni-app)
