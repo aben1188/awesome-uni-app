@@ -54,15 +54,22 @@
 
 - [hello-uniapp: uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
 - [uni-shop: 用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
+- [ironInfoWeapp: 钢材信息小程序](https://github.com/klren0312/ironInfoWeapp)
+- [unishop: 基于uniApp开发的支持小程序、iOS、Android的B2C商城](https://github.com/lrjxgl/unishop)
 
 ### 开源组件
 
 - **UI类组件**
 
-	- [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo)
+	- [uni-ui: 官方开源的基于uni-app的ui框架(ui组件库)](https://github.com/dcloudio/uni-ui)
+	- [ColorUI: 专注视觉的高颜值ui组件库(同时支持uni-app和微信原生小程序)](https://github.com/weilanwl/ColorUI)
+	- [uni-app-bottom-navigation: uni-app自定义底部导航栏](https://github.com/lygustas/uni-app-bottom-navigation)
 		
 - **功能类组件**
-	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
+
+	- [uni-template-login: 基于uni-app框架的登录模板](https://github.com/dcloudio/uni-template-login)
+	- [uni-template-picture: 基于uni-app框架的看图模板](https://github.com/dcloudio/uni-template-picture)
+	- [uni-template-news: 基于uni-app开发的新闻/资讯类App模板](https://github.com/dcloudio/uni-template-news)
 	
 ### 相关文章
 
