@@ -81,6 +81,8 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [Vault: 基于uni-app框架开发的简单APP](https://github.com/zjb19970804/Vault)
 - [Shop: 基于uni-app的商城app](https://github.com/18510247960/shop)
 - [aiplat: 基于uni-app开发的AI智能空间应用](https://github.com/aiplat/uniapp)
+- [uniapp-mix: 基于uni-app开发的应用(有较详细的说明)](https://github.com/shamYu/uniapp-mix)
+- [FeedBackStar-Android: 反馈星应用，兼容iOS、Android、H5、小程序等多个平台](https://github.com/XieXiePro/FeedBackStar-Android)
 
 ### 开源组件
 
@@ -103,6 +105,9 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [fr_uni_app: 基于UNI-APP的tabbar、loading、request、上传图片等组件(兼容微信小程序、APP)](https://github.com/gek6/fr_uni_app)
 	- [uni-custom-scan-code: uni-app自定义扫码界面](https://github.com/xiaoyucoding/uni-custom-scan-code)
 	- [uniapp_date_and_time_selector: Uni-app日期时间选择插件(支持日期范围，日期时间范围选择)](https://github.com/nulllfeng/uniapp_date_and_time_selector)
+	- [indexlist: uniapp indexlist组件](https://github.com/q310550690/indexlist)
+	- [uniapp-picker: uniapp选择器(包含一级、二级级联、三级级联)](https://github.com/lygustas/uniapp-picker)
+	- [ynGallery-for-uniapp: 多端画廊组件(用于图片展览、影片墙，类似猫眼影廊)](https://github.com/UserWenxin/ynGallery-for-uniapp)
 		
 - **功能类组件**
 
@@ -111,6 +116,8 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-template-news: 基于uni-app开发的新闻/资讯类App模板](https://github.com/dcloudio/uni-template-news)
 	- [uni-app-citySelect: 基于uni-app开发的城市选择器，基本与美团小程序一致](https://github.com/xieyushi/uni-app-citySelect)
 	- [uni-app-qrcode: uni-app二维码生成器](https://github.com/q310550690/uni-app-qrcode)
+	- [uniapp-markdown: uniapp的markdown编辑器插件](https://github.com/lygustas/uniapp-markdown)
+	- [qrcode: 基于uni-app的二维码生成组件](https://github.com/alei817927/qrcode)
 	
 ### 相关工具
 
