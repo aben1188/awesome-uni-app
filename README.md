@@ -98,6 +98,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-app-left-navigation: uniapp侧边导航分类](https://github.com/lygustas/uni-app-left-navigation)
 	- [uni-app-range-slider: uni-app区间选择滑块](https://github.com/zhangdaren/uni-app-range-slider)
 	- [fr_uni_app: 基于UNI-APP的tabbar、loading、request、上传图片等组件(兼容微信小程序、APP)](https://github.com/gek6/fr_uni_app)
+	- [uni-custom-scan-code: uni-app自定义扫码界面](https://github.com/xiaoyucoding/uni-custom-scan-code)
 		
 - **功能类组件**
 
