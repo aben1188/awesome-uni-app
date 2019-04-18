@@ -1,5 +1,5 @@
-## DCloud开源的基于Vue.js的跨平台应用前端框架uni-app一站式学习资源/开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-### **通过uni-app开发框架，开发者编写一套代码，目前可同时编译生成微信小程序、阿里小程序(支付宝App、淘宝App、钉钉App、饿了么App、高德地图App、微博App等同时支持)、百度智能小程序(百度App、百度地图App等同时支持)、字节跳动小程序(今日头条App、抖音App、皮皮虾App等同时支持)、H5(Web)、Android App、iOS App等多个版本**
+## 基于Vue.js的跨平台应用前端框架uni-app一站式学习资源/开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+通过uni-app开发框架，开发者编写一套代码，目前可同时编译生成微信小程序、阿里小程序(支付宝App、淘宝App、钉钉App、饿了么App、高德地图App、微博App等同时支持)、百度智能小程序(百度App、百度地图App等同时支持)、字节跳动小程序(今日头条App、抖音App、皮皮虾App等同时支持)、H5(Web)、Android App、iOS App等多个版本
 
 ---
 
