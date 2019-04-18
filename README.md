@@ -52,8 +52,8 @@
 
 ### 开源项目
 
-- [hello-uniapp：uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
-- [uni-shop：用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
+- [hello-uniapp: uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
+- [uni-shop: 用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
 
 ### 开源组件
 
