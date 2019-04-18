@@ -8,10 +8,10 @@
 - [uni-app官方论坛(社区)](https://ask.dcloud.net.cn/explore/category-12)
 - [uni-app官方插件市场](https://ext.dcloud.net.cn/)
 <br />
+
 - [微信小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/)
 - [微信小游戏官方开发文档](https://developers.weixin.qq.com/minigame/dev/)
 - [微信官方开放社区(含开发者社区)](https://developers.weixin.qq.com/community/)
-
 <br />
 
 - [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm)（注：现虽然仍名为“支付宝小程序”，但实际上淘宝App已经支持）
