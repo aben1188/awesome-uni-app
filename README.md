@@ -49,10 +49,6 @@
 
 ---
 
-### 应用案例
-
-- [uni-app官方公布的应用案例列表(由官方持续更新)](https://uniapp.dcloud.io/case)
-
 ### 特别说明
 
 uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成），因此mpvue的所有开源资源都可以用于uni-app（代码基本不用修改，工程配置需进行适当修改）。
@@ -148,6 +144,9 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [uni-app各环节版本兼容性说明](http://ask.dcloud.net.cn/article/35845)
 - [微信小程序转换uni-app详细指南](https://ask.dcloud.net.cn/article/35786)
 
+### 应用案例
+
+- [uni-app官方公布的应用案例列表(由官方持续更新)](https://uniapp.dcloud.io/case)
 
 ### 特别推荐
 
