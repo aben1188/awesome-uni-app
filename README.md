@@ -7,9 +7,7 @@
 - [uni-app官方网站(文档)](https://uniapp.dcloud.io/)
 - [uni-app官方论坛(社区)](https://ask.dcloud.net.cn/explore/category-12)
 - [uni-app官方插件市场](https://ext.dcloud.net.cn/)
-
 <br />
-
 - [微信小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/)
 - [微信小游戏官方开发文档](https://developers.weixin.qq.com/minigame/dev/)
 - [微信官方开放社区(含开发者社区)](https://developers.weixin.qq.com/community/)
