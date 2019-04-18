@@ -53,7 +53,7 @@
 ### 特别说明
 
 uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成），因此mpvue的所有开源资源都可以用于uni-app。
-- [mpvue项目（组件）迁移指南、示例及资源汇总](https://ask.dcloud.net.cn/article/34945)
+- [mpvue项目(组件)迁移指南、示例及资源汇总](https://ask.dcloud.net.cn/article/34945)
 - [awesome-mpvue: mpvue官方开发资源汇总](https://github.com/mpvue/awesome-mpvue)
 
 ### 开源项目
