@@ -65,7 +65,14 @@
 	
 ### 相关文章
 
-- [yingye(20180518)：深入wepy源码：wepy运行原理分析](https://github.com/yingye/Blog/issues/4)
+- [如何评价 DCloud 推出的 uniapp?](https://www.zhihu.com/question/270413186)
+- [5+app uni-app flutter三者区别是什么？](https://www.zhihu.com/question/295107584)
+- [Taro vs uni-app选型对比](https://zhuanlan.zhihu.com/p/55903320)
+- [uni-app 1.2 发布，iOS、Android、小程序、H5主流四端全覆盖](https://ask.dcloud.net.cn/article/35295)
+- [uni-app 1.4 发布，一套代码，发行小程序（微信/支付宝/百度）、H5、App多个平台](https://blog.csdn.net/hbcui1984/article/details/85706334)
+- [uni-app 1.8 发布，微信端性能翻倍，并增加若干 Vue 语法支持](https://ask.dcloud.net.cn/article/35699)
+- [uni-app 1.9 发布，App平台升级为新版编译器（自定义组件模式），支持更多Vue语法](http://ask.dcloud.net.cn/article/35818)
+- [uni-app官方教程学习手记](https://segmentfault.com/a/1190000017020710)
 
 ### 特别推荐
 
