@@ -83,6 +83,13 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [aiplat: 基于uni-app开发的AI智能空间应用](https://github.com/aiplat/uniapp)
 - [uniapp-mix: 基于uni-app开发的应用(有较详细的说明)](https://github.com/shamYu/uniapp-mix)
 - [FeedBackStar-Android: 反馈星应用，兼容iOS、Android、H5、小程序等多个平台](https://github.com/XieXiePro/FeedBackStar-Android)
+- [OneVideo: 基于OneBase+UniApp开发的小视频播放移动应用，一次开发7端运行](https://github.com/Bigotry/OneVideo)
+- [self-service-terminals: 基于uniapp和安卓混合开发自助终端](https://github.com/zhanghaiduo/self-service-terminals)
+- [uniappblog: 简单网站uni-app示例](https://github.com/09net/uniappblog)
+- [jony-uniapp: 一拍即传相册管理 uniapp 版本](https://github.com/pinguo-lixiaolin/jony-uniapp)
+- [uniapp_kameleon: 基于uniapp的猫头鹰的巢](https://github.com/xueenze/uniapp_kameleon)
+- [uniapp-jielong: 故事接龙uni-app](https://github.com/zj04521/uniapp-jielong)
+- [douban-movie: 基于豆瓣电影API,使用uniapp完成的小程序](https://github.com/lijiang0327/douban-movie)
 
 ### 开源组件
 
@@ -118,6 +125,8 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-app-qrcode: uni-app二维码生成器](https://github.com/q310550690/uni-app-qrcode)
 	- [uniapp-markdown: uniapp的markdown编辑器插件](https://github.com/lygustas/uniapp-markdown)
 	- [qrcode: 基于uni-app的二维码生成组件](https://github.com/alei817927/qrcode)
+	- [uniApp-faceScan: UNI-APP 登录模板](https://github.com/xyl66/uniApp-faceScan)
+	- [uniapp-alioss-util: uniapp阿里云oss图片直接上传(不需要后端做签名)](https://github.com/xieyushi/uniapp-alioss-util)
 	
 ### 相关工具
 
