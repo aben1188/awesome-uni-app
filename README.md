@@ -29,6 +29,7 @@
 - [微信小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/)
 - [微信小游戏官方开发文档](https://developers.weixin.qq.com/minigame/dev/)
 - [微信官方开放社区(含开发者社区)](https://developers.weixin.qq.com/community/)
+- [QQ轻应用官方开发文档](http://h5.qianbao.qq.com/wiki/articleH5?id=1237)
 <br>
 
 - [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm) （注：现虽然仍名为“支付宝小程序”，但实际上淘宝App已经支持）
