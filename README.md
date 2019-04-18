@@ -1,7 +1,7 @@
 ## 跨平台应用前端框架uni-app一站式学习资源/开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 <br />
 
-**uni-app**由数字天堂DCloud开源，是一个基于Vue.js的多端跨平台应用统一前端开发框架。通过**uni-app**开发框架，开发者只需编写一套代码，即可同时编译生成**微信小程序**、**阿里小程序**(支付宝、淘宝、钉钉、饿了么、高德地图、微博等阿里系App同时支持)、**百度智能小程序**(百度、百度地图、百度网盘、百度贴吧、百度视频、爱奇艺等百度系App同时支持)、**字节跳动小程序**(今日头条、抖音、皮皮虾等字节跳动系App同时支持)、**H5(Web)**、**Android App**、**iOS App**等多个版本。
+**uni-app**是一个基于Vue.js的多端跨平台应用统一前端开发框架，由数字天堂DCloud开发并开源。通过**uni-app**开发框架，开发者只需编写一套代码，即可同时编译生成**微信小程序**、**阿里小程序**(支付宝、淘宝、钉钉、饿了么、高德地图、微博等阿里系App同时支持)、**百度智能小程序**(百度、百度地图、百度网盘、百度贴吧、百度视频、爱奇艺等百度系App同时支持)、**字节跳动小程序**(今日头条、抖音、皮皮虾等字节跳动系App同时支持)、**H5(Web)**、**Android App**、**iOS App**等多个版本。
 
 ---
 - [DCloud官方网站](http://dcloud.io/)
@@ -24,6 +24,16 @@
 - [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm)（注：现虽然仍名为“支付宝小程序”，但实际上淘宝App已经支持）
 - [阿里小程序官方开发文档](https://docs.alipay.com/mini/developer/getting-started)
 - [阿里小程序官方开发社区](https://openclub.alipay.com/index.php?c=thread&a=subforum&fid=66)
+<br />
+
+- [百度智能小程序官方网站](https://smartprogram.baidu.com)
+- [百度智能小程序官方开发文档](https://smartprogram.baidu.com/docs/introduction/register/)
+- [百度智能小程序官方开发社区](https://smartprogram.baidu.com/forum/)
+<br />
+
+- [字节跳动小程序官方网站](https://developer.toutiao.com/)
+- [字节跳动小程序官方开发文档](https://developer.toutiao.com/docs/framework/)
+- [字节跳动小程序官方开发社区](https://forum.microapp.bytedance.com)
 
 ---
 
