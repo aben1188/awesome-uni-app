@@ -96,6 +96,8 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uniapp-plugin-collections: uni-app组件库(包括了验证码输入、密码输入、数字滚动、文字滚动、保存图片等组件)](https://github.com/xiaowang1314/uniapp-plugin-collections)
 	- [rui-uni-components: 为uni-app开发的RUI组件库](https://github.com/Rattenking/rui-uni-components)
 	- [uni-app-left-navigation: uniapp侧边导航分类](https://github.com/lygustas/uni-app-left-navigation)
+	- [uni-app-range-slider: uni-app区间选择滑块](https://github.com/zhangdaren/uni-app-range-slider)
+	- [fr_uni_app: 基于UNI-APP的tabbar、loading、request、上传图片等组件(兼容微信小程序、APP)](https://github.com/gek6/fr_uni_app)
 		
 - **功能类组件**
 
