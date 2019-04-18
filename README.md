@@ -14,6 +14,7 @@
 - **......** （未来将持续支持更多平台，包括即将支持由华为、小米、vivo、oppo、一加、魅族等国内主流安卓手机厂商联合推出的[快应用](https://www.quickapp.cn/)）
 
 ---
+
 - [DCloud官方网站](http://dcloud.io/)
 - [DCloud Github首页](https://github.com/dcloudio)
 - [Vue.js官方网站](https://cn.vuejs.org/index.html)
@@ -47,6 +48,7 @@
 - [字节跳动小程序官方开发社区](https://forum.microapp.bytedance.com)
 
 ---
+
 ### 应用案例
 
 - [uni-app官方公布的应用案例列表(由官方持续更新)](https://uniapp.dcloud.io/case)
@@ -73,6 +75,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [cnode社区: 基于uni-app开发的cnode社区开源版](https://github.com/yx-Team/cnode)
 - [DCIM管理系统: 用uni-app开发的DCIM管理系统](https://github.com/Airubby/uniapp)
 - [微酒柜: 基于uni-app开发，支持微信小程序、支付宝小程序以及Android App、iOS App](https://github.com/changjiapu/uni-app)
+- [生活街: 使用uniapp框架开发的移动端应用(包括安卓App、微信小程序、H5网站)](https://github.com/pjqdyd/UniApp-SLife)
 
 ### 开源组件
 
@@ -84,6 +87,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-app-slidelist: 超级列表左滑组件](https://github.com/zhangzibao/uni-app-slidelist)
 	- [uni-inputs: uni-app inputs 组件库](https://github.com/HuLuoQian/uni-inputs)（注：包括了input、textarea、radio、checkbox、switch、slider、上传图片、日期选择、城市选择、省市区乡镇街道、picker等组件）
 	- [uni-app-tools: uni-app组件库](https://github.com/SilurianYang/uni-app-tools)（注：该组件库也包括了功能类组件）
+	- [sunUi-for-uniApp: sunUi组件库](https://github.com/Sunnshino/sunUi-for-uniApp)
 		
 - **功能类组件**
 
