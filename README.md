@@ -78,6 +78,9 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [微酒柜: 基于uni-app开发，支持微信小程序、支付宝小程序以及Android App、iOS App](https://github.com/changjiapu/uni-app)
 - [生活街: 使用uniapp框架开发的移动端应用(包括安卓App、微信小程序、H5网站)](https://github.com/pjqdyd/UniApp-SLife)
 - [uniapp-chat: 借助uni-app开发的chat聊天界面](https://github.com/felony/uniapp-chat)
+- [Vault: 基于uni-app框架开发的简单APP](https://github.com/zjb19970804/Vault)
+- [Shop: 基于uni-app的商城app](https://github.com/18510247960/shop)
+- [aiplat: 基于uni-app开发的AI智能空间应用](https://github.com/aiplat/uniapp)
 
 ### 开源组件
 
@@ -99,6 +102,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-app-range-slider: uni-app区间选择滑块](https://github.com/zhangdaren/uni-app-range-slider)
 	- [fr_uni_app: 基于UNI-APP的tabbar、loading、request、上传图片等组件(兼容微信小程序、APP)](https://github.com/gek6/fr_uni_app)
 	- [uni-custom-scan-code: uni-app自定义扫码界面](https://github.com/xiaoyucoding/uni-custom-scan-code)
+	- [uniapp_date_and_time_selector: Uni-app日期时间选择插件(支持日期范围，日期时间范围选择)](https://github.com/nulllfeng/uniapp_date_and_time_selector)
 		
 - **功能类组件**
 
