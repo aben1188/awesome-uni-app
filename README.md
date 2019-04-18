@@ -45,6 +45,9 @@
 - [字节跳动小程序官方开发社区](https://forum.microapp.bytedance.com)
 
 ---
+### 应用案例
+
+- [uni-app官方公布的应用案例列表(由官方持续更新)](https://uniapp.dcloud.io/case)
 
 ### 开源项目
 
