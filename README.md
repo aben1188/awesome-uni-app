@@ -88,6 +88,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-inputs: uni-app inputs 组件库](https://github.com/HuLuoQian/uni-inputs)（注：包括了input、textarea、radio、checkbox、switch、slider、上传图片、日期选择、城市选择、省市区乡镇街道、picker等组件）
 	- [uni-app-tools: uni-app组件库](https://github.com/SilurianYang/uni-app-tools)（注：该组件库也包括了功能类组件）
 	- [sunUi-for-uniApp: sunUi组件库](https://github.com/Sunnshino/sunUi-for-uniApp)
+	- [uni-app-tabbar: uni-app底部导航栏凸起实现](https://github.com/xiaotimo/uni-app-tabbar)（注：该组件目前仅支持Android和iOS App，不支持小程序、H5）
 		
 - **功能类组件**
 
