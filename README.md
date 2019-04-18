@@ -11,7 +11,7 @@
 - **H5(Web)网站**
 - **Android App**
 - **iOS App**
-- **……**
+- **......** （未来将持续支持更多平台）
 
 ---
 - [DCloud官方网站](http://dcloud.io/)
