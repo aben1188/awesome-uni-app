@@ -65,7 +65,7 @@
 	
 ### 相关文章
 
-- [如何评价 DCloud 推出的 uniapp?](https://www.zhihu.com/question/270413186)
+- [如何评价 DCloud 推出的 uni-app?](https://www.zhihu.com/question/270413186)
 - [5+app uni-app flutter三者区别是什么？](https://www.zhihu.com/question/295107584)
 - [Taro vs uni-app选型对比](https://zhuanlan.zhihu.com/p/55903320)
 - [uni-app 1.2 发布，iOS、Android、小程序、H5主流四端全覆盖](https://ask.dcloud.net.cn/article/35295)
