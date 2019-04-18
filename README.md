@@ -11,7 +11,7 @@
 - **H5(Web)网站**
 - **Android App**
 - **iOS App**
-- **......** （未来将持续支持更多平台）
+- **......** （未来将持续支持更多平台，包括即将支持由华为、小米、vivo、oppo、一加、魅族等国内主流安卓手机厂商联合推出的[快应用](https://www.quickapp.cn/)）
 
 ---
 - [DCloud官方网站](http://dcloud.io/)
@@ -52,7 +52,8 @@
 
 ### 开源项目
 
-- [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo)
+- [hello-uniapp：uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
+- [uni-shop：用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
 
 ### 开源组件
 
@@ -67,6 +68,7 @@
 
 - [如何评价 DCloud 推出的 uni-app?](https://www.zhihu.com/question/270413186)
 - [Taro vs uni-app选型对比](https://zhuanlan.zhihu.com/p/55903320)
+- [uni-app：基于Vue的跨端框架（闪电演讲内容整理) | 掘金开发者大会](https://blog.csdn.net/hbcui1984/article/details/82776351)
 - [uni-app 1.2 发布，iOS、Android、小程序、H5主流四端全覆盖](https://ask.dcloud.net.cn/article/35295)
 - [uni-app 1.4 发布，一套代码，发行小程序（微信/支付宝/百度）、H5、App多个平台](https://blog.csdn.net/hbcui1984/article/details/85706334)
 - [uni-app 1.8 发布，微信端性能翻倍，并增加若干 Vue 语法支持](https://ask.dcloud.net.cn/article/35699)
