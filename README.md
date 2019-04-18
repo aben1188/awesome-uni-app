@@ -53,11 +53,15 @@
 ### 开源项目
 
 - [hello-uniapp: uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
+- [仿One·一个: 使用uni-app开发的「ONE · 一个」](https://github.com/dcloudio/uni-template-one)
 - [uni-shop: 用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
 - [ironInfoWeapp: 钢材信息小程序](https://github.com/klren0312/ironInfoWeapp)
 - [得推B2C商城: 基于uniApp开发的支持小程序、iOS、Android的B2C商城](https://github.com/lrjxgl/unishop)
 - [仿QQ音乐: 用uni app框架开发的兼容三端(H5、小程序、App)仿QQ音乐](https://github.com/SuiXiangjun/uniappQQmic)
 - [音乐电子书库: 使用uni-app开发的小程序和安卓App](https://gitee.com/yanglilong127/uniapp_music_library)
+- [仿微信朋友圈: 基于uni-app开发的仿微信朋友圈小程序](https://github.com/liuxiaoyucc/uni-app-moments)
+- [碧波世界: 通过uni-app实现移动端+iOS端+小程序的虚拟币交易应用](https://github.com/qqlcx5/uniapp)
+- [博客小程序: 基于uni-app开发的博客小程序](https://github.com/xieyushi/jpress-uniapp)
 
 ### 开源组件
 
@@ -72,6 +76,7 @@
 	- [uni-template-login: 基于uni-app框架的登录模板](https://github.com/dcloudio/uni-template-login)
 	- [uni-template-picture: 基于uni-app框架的看图模板](https://github.com/dcloudio/uni-template-picture)
 	- [uni-template-news: 基于uni-app开发的新闻/资讯类App模板](https://github.com/dcloudio/uni-template-news)
+	- [uni-app-citySelect: 基于uni-app开发的城市选择器，基本与美团小程序一致](https://github.com/xieyushi/uni-app-citySelect)
 	
 ### 相关文章
 
