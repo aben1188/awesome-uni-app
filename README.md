@@ -93,6 +93,9 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [sunUi-for-uniApp: sunUi组件库](https://github.com/Sunnshino/sunUi-for-uniApp)
 	- [uni-app-tabbar: uni-app底部导航栏凸起实现](https://github.com/xiaotimo/uni-app-tabbar)（注：该组件目前仅支持Android和iOS App，不支持小程序、H5）
 	- [RichAlert: uni-app原生(iOS、Android)插件：富文本提示框](https://github.com/dcloudio/RichAlert)
+	- [uniapp-plugin-collections: uni-app组件库(包括了验证码输入、密码输入、数字滚动、文字滚动、保存图片等组件)](https://github.com/xiaowang1314/uniapp-plugin-collections)
+	- [rui-uni-components: 为uni-app开发的RUI组件库](https://github.com/Rattenking/rui-uni-components)
+	- [uni-app-left-navigation: uniapp侧边导航分类](https://github.com/lygustas/uni-app-left-navigation)
 		
 - **功能类组件**
 
