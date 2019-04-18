@@ -72,6 +72,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [博客小程序: 基于uni-app开发的博客小程序](https://github.com/xieyushi/jpress-uniapp)
 - [cnode社区: 基于uni-app开发的cnode社区开源版](https://github.com/yx-Team/cnode)
 - [DCIM管理系统: 用uni-app开发的DCIM管理系统](https://github.com/Airubby/uniapp)
+- [微酒柜: 基于uni-app开发，支持微信小程序、支付宝小程序以及Android App、iOS App](https://github.com/changjiapu/uni-app)
 
 ### 开源组件
 
