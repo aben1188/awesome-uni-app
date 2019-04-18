@@ -66,6 +66,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [uni-shop: 用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
 - [ironInfoWeapp: 钢材信息小程序](https://github.com/klren0312/ironInfoWeapp)
 - [得推B2C商城: 基于uniApp开发的支持小程序、iOS、Android的B2C商城](https://github.com/lrjxgl/unishop)
+- [uniBBS: deituicms + uni-app的bbs项目](https://github.com/lrjxgl/uniBBS)
 - [笑一波: 基于uni-app开发的跨平台应用()](https://gitee.com/jameson512/xiaoyibo)
 - [仿QQ音乐: 用uni app框架开发的兼容三端(H5、小程序、App)仿QQ音乐](https://github.com/SuiXiangjun/uniappQQmic)
 - [音乐电子书库: 使用uni-app开发的小程序和安卓App](https://gitee.com/yanglilong127/uniapp_music_library)
@@ -91,6 +92,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-app-tools: uni-app组件库](https://github.com/SilurianYang/uni-app-tools)（注：该组件库也包括了功能类组件）
 	- [sunUi-for-uniApp: sunUi组件库](https://github.com/Sunnshino/sunUi-for-uniApp)
 	- [uni-app-tabbar: uni-app底部导航栏凸起实现](https://github.com/xiaotimo/uni-app-tabbar)（注：该组件目前仅支持Android和iOS App，不支持小程序、H5）
+	- [RichAlert: uni-app原生(iOS、Android)插件：富文本提示框](https://github.com/dcloudio/RichAlert)
 		
 - **功能类组件**
 
