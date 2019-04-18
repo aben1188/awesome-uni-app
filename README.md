@@ -76,6 +76,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [DCIM管理系统: 用uni-app开发的DCIM管理系统](https://github.com/Airubby/uniapp)
 - [微酒柜: 基于uni-app开发，支持微信小程序、支付宝小程序以及Android App、iOS App](https://github.com/changjiapu/uni-app)
 - [生活街: 使用uniapp框架开发的移动端应用(包括安卓App、微信小程序、H5网站)](https://github.com/pjqdyd/UniApp-SLife)
+- [uniapp-chat: 借助uni-app开发的chat聊天界面](https://github.com/felony/uniapp-chat)
 
 ### 开源组件
 
@@ -98,6 +99,10 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uni-app-citySelect: 基于uni-app开发的城市选择器，基本与美团小程序一致](https://github.com/xieyushi/uni-app-citySelect)
 	- [uni-app-qrcode: uni-app二维码生成器](https://github.com/q310550690/uni-app-qrcode)
 	
+### 相关工具
+
+- [uni-preset-vue：uni-app preset for vue](https://github.com/dcloudio/uni-preset-vue)
+
 ### 相关文章
 
 - [如何评价 DCloud 推出的 uni-app?](https://www.zhihu.com/question/270413186)
