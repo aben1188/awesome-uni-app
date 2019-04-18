@@ -55,7 +55,9 @@
 - [hello-uniapp: uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
 - [uni-shop: 用uni-app创建的类微信应用](https://github.com/siberiawolf/uni-shop)
 - [ironInfoWeapp: 钢材信息小程序](https://github.com/klren0312/ironInfoWeapp)
-- [unishop: 基于uniApp开发的支持小程序、iOS、Android的B2C商城](https://github.com/lrjxgl/unishop)
+- [得推B2C商城: 基于uniApp开发的支持小程序、iOS、Android的B2C商城](https://github.com/lrjxgl/unishop)
+- [仿QQ音乐: 用uni app框架开发的兼容三端(H5、小程序、App)仿QQ音乐](https://github.com/SuiXiangjun/uniappQQmic)
+- [音乐电子书库: 使用uni-app开发的小程序和安卓App](https://gitee.com/yanglilong127/uniapp_music_library)
 
 ### 开源组件
 
