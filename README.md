@@ -23,7 +23,7 @@
 - [微信官方开放社区(含开发者社区)](https://developers.weixin.qq.com/community/)
 <br>
 
-- [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm)（注：现虽然仍名为“支付宝小程序”，但实际上淘宝App已经支持）
+- [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm) （注：现虽然仍名为“支付宝小程序”，但实际上淘宝App已经支持）
 - [阿里小程序官方开发文档](https://docs.alipay.com/mini/developer/getting-started)
 - [阿里小程序官方开发社区](https://openclub.alipay.com/index.php?c=thread&a=subforum&fid=66)
 <br>
