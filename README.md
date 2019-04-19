@@ -100,7 +100,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [yuedu书城: 基于uni-app开发的书城项目前端部分)](https://github.com/Pennan/uniapp-yuedu)（注：服务端部分参见[uniapp-yuedu-server](https://github.com/Pennan/uniapp-yuedu-server)）
 - [uniapp-demo: 基于uni-app开发的多端统一项目Demo](https://github.com/sjmshenhua/uniapp)（注：有详细的项目目录结构说明以及注意事项）
 - [zhihu-uni-app: 基于uni-app开发的仿知乎日报App](https://github.com/oukele/zhihu-uni-app)
-- [uni-app-tice: 使用uni-app框架制作的青少年体测中心](https://github.com/hdyanghj/uni-app-tice)
+- [uni-app-tice: 使用uni-app框架制作的青少年体测中心](https://github.com/hdyanghj/uni-app-tice)（注：包含了免密码登录、密码登录，设置密码、修改密码、绑定资料、补充资料、个人中心、我要测试、测试列表、测试详情等功能）
 
 ### 开源组件
 
@@ -148,7 +148,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uniApp-faceScan: UNI-APP 登录模板](https://github.com/xyl66/uniApp-faceScan)
 	- [uniapp-alioss-util: uniapp阿里云oss图片直接上传(不需要后端做签名)](https://github.com/xieyushi/uniapp-alioss-util)
 	- [mimc-uniapp-sdk: 小米即时消息云 MIMC uni-app SDK](https://gitee.com/fulusco/mimc-uniapp-sdk)
-	- [uniFly: 基于uni-app + Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序](https://gitee.com/qzeroq/uniFlyDemo)
+	- [uniFly: 基于uni-app + Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序](https://gitee.com/qzeroq/uniFlyDemo)（注：unifly支持uni-request所有功能，而且更具有模块化思想，详细使用说明看[这里](https://www.jianshu.com/p/2729ac395cf5)）
 	- [btoolkit-for-uniapp: uni-app便捷开发工具库](https://github.com/wuqibo/btoolkit-for-uniapp)
 	- [uniapp-cropper: 图片裁剪组件的uniapp版本](https://github.com/CoryLiu/uniapp-cropper)
 	- [uniapp-wslimg: uniapp版的七牛上传组件](https://github.com/b3241931/uniapp-wslimg)
