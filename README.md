@@ -1,7 +1,7 @@
 ## 跨平台应用前端框架uni-app一站式学习资源/开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 <br />
 
-**uni-app**是一个基于Vue.js的多端跨平台应用统一前端开发框架，由数字天堂DCloud开发并开源。
+**uni-app**是一个基于Vue.js的跨平台多端应用前端开发框架，由数字天堂DCloud开发并开源。
 
 通过**uni-app**开发框架，开发者只需编写一套代码，即可同时编译生成如下多个平台的应用：
 - **微信小程序** (包括[QQ轻应用](http://h5.qianbao.qq.com/wiki/articleH5?id=1237)，而[QQ小程序](https://q.qq.com)由于尚在内测中，兼容情况未知)
@@ -51,7 +51,8 @@
 
 ### 特别说明
 
-uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成），因此mpvue的所有开源资源都可以用于uni-app（代码基本不用修改，工程配置需进行适当修改）。
+uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所有开源资源都可以用于 uni-app。而 uni-app 从1.8开始虽然进行了完全重构，除了性能上有提升之外，还实现了更多 mpvue 所不支持的 Vue 特性，不过依然保证了对 mpvue 项目的兼容。因此，无论是1.8之前的老框架，还是1.8之后的新框架，mpvue 项目的代码基本都不用修改，只是工程配置需进行适当修改(详见下面的迁移指南)。
+
 - [mpvue项目(组件)迁移指南、示例及资源汇总](https://ask.dcloud.net.cn/article/34945)
 - [awesome-mpvue: mpvue官方开发资源汇总](https://github.com/mpvue/awesome-mpvue/blob/master/README.md)
 
