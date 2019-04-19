@@ -95,6 +95,8 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [uni_app_fengshui_network: 基于uni-app开发的风水网](https://gitee.com/ST219/uni_app_fengshui_network)
 - [syblog: 基于uni-app开发的博客系统，同时支持PC站点、APP端、小程序端](https://gitee.com/MaNongWuMa/syblog)
 - [yyh-uni-app: 基于uni-app开发的购物小程序，微信小程序、安卓、iOS三端开发](https://gitee.com/WebYunKaiFa/yyh-uni-app)
+- [qunar_demo: 使用uni-app模仿去哪儿h5页面开发app](https://gitee.com/zhangjiaty/qunar_demo)
+- [uni-app-project: 使用uni-app框架，编译微信小程序及H5，项目是从mpvue迁移过来](https://gitee.com/Freeruning/uni-app-project)
 
 ### 开源组件
 
@@ -125,6 +127,8 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uniapps_animate_plugin: 使用uni-app简单封装Animation动画](https://gitee.com/yanglilong127/uniapps_animate_plugin)
 	- [i-price: uni-app 常用价格组件i-price](https://gitee.com/sonicsunsky/i-price)
 	- [PFUIN: 基于UNI-APP开发跨平台应用的精致移动端组件库](https://gitee.com/panfu/PFUIN)（注：有详细的目录结构说明；该组件库也包括了功能类组件）
+	- [聚合UI: 运行在UNI-APP环境下的一套UI系统](https://gitee.com/izcy/juheui)
+	- [yuedu书城: 基于uni-app开发的书城项目前端部分)](https://github.com/Pennan/uniapp-yuedu)（注：服务端部分参见[uniapp-yuedu-server](https://github.com/Pennan/uniapp-yuedu-server)）
 		
 - **功能类组件**
 
