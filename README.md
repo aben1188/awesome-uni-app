@@ -11,7 +11,7 @@
 - **H5(Web)网站**
 - **Android App**
 - **iOS App**
-- **......** （未来将持续支持生成更多平台的应用，包括即将支持由华为、小米、vivo、oppo、一加、魅族等国内主流安卓手机厂商联合推出的[快应用](https://www.quickapp.cn/)）
+- **......** （uni-app未来将持续支持生成更多平台的应用，包括即将支持由华为、小米、vivo、oppo、一加、魅族等国内主流安卓手机厂商联合推出的[快应用](https://www.quickapp.cn/)）
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 特别说明
 
-uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所有开源资源都可以用于 uni-app。而 uni-app 从1.8开始虽然进行了完全重构，除了性能上有提升之外，还实现了更多 mpvue 所不支持的 Vue 特性，不过依然保证了对 mpvue 项目的兼容。因此，无论是1.8之前的老框架，还是1.8之后的新框架，mpvue 项目的代码基本都不用修改，只是工程配置需进行适当修改(详见下面的迁移指南)。
+uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所有开源资源都可以用于 uni-app。而 uni-app 从1.8开始虽然进行了完全重构，除了性能上有提升之外，还实现了更多 mpvue 所不支持的 Vue 特性，不过依然保证了对 mpvue 项目的兼容。因此，无论是 1.8 之前的老框架，还是 1.8 之后的新框架，mpvue 项目的代码基本都不用修改，只是工程配置需进行适当修改(详见下面的迁移指南)。
 
 - [mpvue项目(组件)迁移指南、示例及资源汇总](https://ask.dcloud.net.cn/article/34945)
 - [awesome-mpvue: mpvue官方开发资源汇总](https://github.com/mpvue/awesome-mpvue/blob/master/README.md)
