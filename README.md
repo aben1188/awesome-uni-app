@@ -86,6 +86,9 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [uniapp_kameleon: 基于uniapp的猫头鹰的巢](https://github.com/xueenze/uniapp_kameleon)
 - [uniapp-jielong: 故事接龙uni-app](https://github.com/zj04521/uniapp-jielong)
 - [douban-movie: 基于豆瓣电影API,使用uniapp完成的小程序](https://github.com/lijiang0327/douban-movie)
+- [uniApp-maoyan: 使用uniapp写的一个猫眼电影App](https://gitee.com/lovesnsfi_admin/uniApp-maoyan)
+- [uniApp_ceshi: 基于uniApp的仿叮当APP](https://gitee.com/jianshenggit/uniApp_ceshi)
+- [faxian: 用uniapp来实现百果园用户端发现模块(主要包括发现主页、详细页、作者页)](https://gitee.com/lengguoxing/faxian)
 
 ### 开源组件
 
@@ -111,6 +114,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [indexlist: uniapp indexlist组件](https://github.com/q310550690/indexlist)
 	- [uniapp-picker: uniapp选择器(包含一级、二级级联、三级级联)](https://github.com/lygustas/uniapp-picker)
 	- [ynGallery-for-uniapp: 多端画廊组件(用于图片展览、影片墙，类似猫眼影廊)](https://github.com/UserWenxin/ynGallery-for-uniapp)
+	- [teaset: 一个uniapp开源组件库](https://gitee.com/zengqs/teaset)
 		
 - **功能类组件**
 
