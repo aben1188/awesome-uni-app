@@ -134,6 +134,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [聚合UI: 运行在UNI-APP环境下的一套UI系统](https://gitee.com/izcy/juheui)
 	- [uniapp-components: 适用于uniapp开发框架的一些组件](https://github.com/snowwolfjay/uniapp-components)
 	- [uni-app常用插件: 基于uni-app开发的一些常用插件(组件)](https://github.com/qq459114173/uni-app)
+	- [wjsc-tools-uni-app: 无境书茶工具集合](https://github.com/oldpotter/wjsc-tools-uni-app)
 		
 - **功能类组件**
 
@@ -148,7 +149,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uniApp-faceScan: UNI-APP 登录模板](https://github.com/xyl66/uniApp-faceScan)
 	- [uniapp-alioss-util: uniapp阿里云oss图片直接上传(不需要后端做签名)](https://github.com/xieyushi/uniapp-alioss-util)
 	- [mimc-uniapp-sdk: 小米即时消息云 MIMC uni-app SDK](https://gitee.com/fulusco/mimc-uniapp-sdk)
-	- [uniFly: 基于uni-app + Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序](https://gitee.com/qzeroq/uniFlyDemo)（注：unifly支持[uni-request](https://github.com/QzeroQ/uni-request)所有功能，而且更具有模块化思想，详细使用说明看[这里](https://www.jianshu.com/p/2729ac395cf5)）
+	- [uniFly: 基于uni-app + Fly封装request请求，实现请求和响应拦截,支持h5和小程序(可代替uni-request)](https://gitee.com/qzeroq/uniFlyDemo)（注：uniFly支持[uni-request](https://github.com/QzeroQ/uni-request)所有功能，而且更具有模块化思想，详细使用说明看[这里](https://www.jianshu.com/p/2729ac395cf5)）
 	- [btoolkit-for-uniapp: uni-app便捷开发工具库](https://github.com/wuqibo/btoolkit-for-uniapp)
 	- [uniapp-cropper: 图片裁剪组件的uniapp版本](https://github.com/CoryLiu/uniapp-cropper)
 	- [uniapp-wslimg: uniapp版的七牛上传组件](https://github.com/b3241931/uniapp-wslimg)
