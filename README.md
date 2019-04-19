@@ -98,6 +98,9 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [qunar_demo: 使用uni-app模仿去哪儿h5页面开发app](https://gitee.com/zhangjiaty/qunar_demo)
 - [uni-app-project: 使用uni-app框架，编译微信小程序及H5，项目是从mpvue迁移过来](https://gitee.com/Freeruning/uni-app-project)
 - [yuedu书城: 基于uni-app开发的书城项目前端部分)](https://github.com/Pennan/uniapp-yuedu)（注：服务端部分参见[uniapp-yuedu-server](https://github.com/Pennan/uniapp-yuedu-server)）
+- [uniapp-demo: 基于uni-app开发的多端统一项目Demo](https://github.com/sjmshenhua/uniapp)（注：有详细的项目目录结构说明以及注意事项）
+- [zhihu-uni-app: 基于uni-app开发的仿知乎日报App](https://github.com/oukele/zhihu-uni-app)
+- [uni-app-tice: 使用uni-app框架制作的青少年体测中心](https://github.com/hdyanghj/uni-app-tice)
 
 ### 开源组件
 
@@ -129,12 +132,15 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [i-price: uni-app 常用价格组件i-price](https://gitee.com/sonicsunsky/i-price)
 	- [PFUIN: 基于UNI-APP开发跨平台应用的精致移动端组件库](https://gitee.com/panfu/PFUIN)（注：有详细的目录结构说明；该组件库也包括了功能类组件）
 	- [聚合UI: 运行在UNI-APP环境下的一套UI系统](https://gitee.com/izcy/juheui)
+	- [uniapp-components: 适用于uniapp开发框架的一些组件](https://github.com/snowwolfjay/uniapp-components)
+	- [uni-app常用插件: 基于uni-app开发的一些常用插件(组件)](https://github.com/qq459114173/uni-app)
 		
 - **功能类组件**
 
 	- [uni-template-login: 基于uni-app框架的登录模板](https://github.com/dcloudio/uni-template-login)
 	- [uni-template-picture: 基于uni-app框架的看图模板](https://github.com/dcloudio/uni-template-picture)
 	- [uni-template-news: 基于uni-app开发的新闻/资讯类App模板](https://github.com/dcloudio/uni-template-news)
+	- [uParse: 适用于uni-app/mpvue的富文本解析自定义组件(修改自mpvue-wxParse)](https://github.com/dcloudio/uParse)
 	- [uni-app-citySelect: 基于uni-app开发的城市选择器，基本与美团小程序一致](https://github.com/xieyushi/uni-app-citySelect)
 	- [uni-app-qrcode: uni-app二维码生成器](https://github.com/q310550690/uni-app-qrcode)
 	- [uniapp-markdown: uniapp的markdown编辑器插件](https://github.com/lygustas/uniapp-markdown)
@@ -143,6 +149,9 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uniapp-alioss-util: uniapp阿里云oss图片直接上传(不需要后端做签名)](https://github.com/xieyushi/uniapp-alioss-util)
 	- [mimc-uniapp-sdk: 小米即时消息云 MIMC uni-app SDK](https://gitee.com/fulusco/mimc-uniapp-sdk)
 	- [uniFly: 基于uni-app + Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序](https://gitee.com/qzeroq/uniFlyDemo)
+	- [btoolkit-for-uniapp: uni-app便捷开发工具库](https://github.com/wuqibo/btoolkit-for-uniapp)
+	- [uniapp-cropper: 图片裁剪组件的uniapp版本](https://github.com/CoryLiu/uniapp-cropper)
+	- [uniapp-wslimg: uniapp版的七牛上传组件](https://github.com/b3241931/uniapp-wslimg)
 	
 ### 相关工具
 
