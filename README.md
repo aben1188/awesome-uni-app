@@ -163,6 +163,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 
 - [如何评价 DCloud 推出的 uni-app?](https://www.zhihu.com/question/270413186)
 - [Taro vs uni-app选型对比](https://zhuanlan.zhihu.com/p/55903320)
+- [跨端开发框架深度横评](https://juejin.im/post/5ca1736af265da30ae314248)
 - [uni-app：基于Vue的跨端框架（闪电演讲内容整理)|掘金开发者大会](https://blog.csdn.net/hbcui1984/article/details/82776351)
 - [关于uni-app你需要了解的基本问题及选型评估23问](https://blog.csdn.net/asstudio/article/details/87933912)
 - [uni-app 1.2 发布，iOS、Android、小程序、H5主流四端全覆盖](https://ask.dcloud.net.cn/article/35295)
