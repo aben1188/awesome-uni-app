@@ -63,7 +63,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [ironInfoWeapp: 钢材信息小程序](https://github.com/klren0312/ironInfoWeapp)
 - [得推B2C商城: 基于uniApp开发的支持小程序、iOS、Android的B2C商城](https://github.com/lrjxgl/unishop)
 - [uniBBS: deituicms + uni-app的bbs项目](https://github.com/lrjxgl/uniBBS)
-- [笑一波: 基于uni-app开发的跨平台应用()](https://gitee.com/jameson512/xiaoyibo)
+- [笑一波: 基于uni-app开发的跨平台应用](https://gitee.com/jameson512/xiaoyibo)
 - [仿QQ音乐: 用uni app框架开发的兼容三端(H5、小程序、App)仿QQ音乐](https://github.com/SuiXiangjun/uniappQQmic)
 - [音乐电子书库: 使用uni-app开发的小程序和安卓App](https://gitee.com/yanglilong127/uniapp_music_library)
 - [仿微信朋友圈: 基于uni-app开发的仿微信朋友圈小程序](https://github.com/liuxiaoyucc/uni-app-moments)
