@@ -148,7 +148,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uniApp-faceScan: UNI-APP 登录模板](https://github.com/xyl66/uniApp-faceScan)
 	- [uniapp-alioss-util: uniapp阿里云oss图片直接上传(不需要后端做签名)](https://github.com/xieyushi/uniapp-alioss-util)
 	- [mimc-uniapp-sdk: 小米即时消息云 MIMC uni-app SDK](https://gitee.com/fulusco/mimc-uniapp-sdk)
-	- [uniFly: 基于uni-app + Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序](https://gitee.com/qzeroq/uniFlyDemo)（注：unifly支持uni-request所有功能，而且更具有模块化思想，详细使用说明看[这里](https://www.jianshu.com/p/2729ac395cf5)）
+	- [uniFly: 基于uni-app + Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序](https://gitee.com/qzeroq/uniFlyDemo)（注：unifly支持[uni-request](https://github.com/QzeroQ/uni-request)所有功能，而且更具有模块化思想，详细使用说明看[这里](https://www.jianshu.com/p/2729ac395cf5)）
 	- [btoolkit-for-uniapp: uni-app便捷开发工具库](https://github.com/wuqibo/btoolkit-for-uniapp)
 	- [uniapp-cropper: 图片裁剪组件的uniapp版本](https://github.com/CoryLiu/uniapp-cropper)
 	- [uniapp-wslimg: uniapp版的七牛上传组件](https://github.com/b3241931/uniapp-wslimg)
