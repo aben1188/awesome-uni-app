@@ -91,7 +91,7 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [faxian: 用uniapp来实现百果园用户端发现模块(主要包括发现主页、详细页、作者页)](https://gitee.com/lengguoxing/faxian)
 - [thinkjs-uniapp-framework: uni-app应用项目快速开发框架](https://gitee.com/gzpyp/thinkjs-uniapp-framework)
 - [Jshop小程序前台简约模板: 基于uni-app开发的简约前台H5+小程序模板](https://gitee.com/hnjihai/uniapp)
-- [byrz-uni-app: 用uni-app写的简易小程序，可同时生成支付宝、百度、微信小程序，已上线](https://gitee.com/wangFengJ/byrz
+- [byrz-uni-app: 用uni-app写的简易小程序，可同时生成支付宝、百度、微信小程序，已上线](https://gitee.com/wangFengJ/byrz)
 - [uni_app_fengshui_network: 基于uni-app开发的风水网](https://gitee.com/ST219/uni_app_fengshui_network)
 - [syblog: 基于uni-app开发的博客系统，同时支持PC站点、APP端、小程序端](https://gitee.com/MaNongWuMa/syblog)
 - [yyh-uni-app: 基于uni-app开发的购物小程序，微信小程序、安卓、iOS三端开发](https://gitee.com/WebYunKaiFa/yyh-uni-app)
