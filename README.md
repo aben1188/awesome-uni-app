@@ -89,6 +89,12 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 - [uniApp-maoyan: 使用uniapp写的一个猫眼电影App](https://gitee.com/lovesnsfi_admin/uniApp-maoyan)
 - [uniApp_ceshi: 基于uniApp的仿叮当APP](https://gitee.com/jianshenggit/uniApp_ceshi)
 - [faxian: 用uniapp来实现百果园用户端发现模块(主要包括发现主页、详细页、作者页)](https://gitee.com/lengguoxing/faxian)
+- [thinkjs-uniapp-framework: uni-app应用项目快速开发框架](https://gitee.com/gzpyp/thinkjs-uniapp-framework)
+- [Jshop小程序前台简约模板: 基于uni-app开发的简约前台H5+小程序模板](https://gitee.com/hnjihai/uniapp)
+- [byrz-uni-app: 用uni-app写的简易小程序，可同时生成支付宝、百度、微信小程序，已上线](https://gitee.com/wangFengJ/byrz
+- [uni_app_fengshui_network: 基于uni-app开发的风水网](https://gitee.com/ST219/uni_app_fengshui_network)
+- [syblog: 基于uni-app开发的博客系统，同时支持PC站点、APP端、小程序端](https://gitee.com/MaNongWuMa/syblog)
+- [yyh-uni-app: 基于uni-app开发的购物小程序，微信小程序、安卓、iOS三端开发](https://gitee.com/WebYunKaiFa/yyh-uni-app)
 
 ### 开源组件
 
@@ -115,6 +121,10 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [uniapp-picker: uniapp选择器(包含一级、二级级联、三级级联)](https://github.com/lygustas/uniapp-picker)
 	- [ynGallery-for-uniapp: 多端画廊组件(用于图片展览、影片墙，类似猫眼影廊)](https://github.com/UserWenxin/ynGallery-for-uniapp)
 	- [teaset: 一个uniapp开源组件库](https://gitee.com/zengqs/teaset)
+	- [iviewComponents: iview 转 mpvue uniapp vue components](https://gitee.com/kdmili/iviewComponents)
+	- [uniapps_animate_plugin: 使用uni-app简单封装Animation动画](https://gitee.com/yanglilong127/uniapps_animate_plugin)
+	- [i-price: uni-app 常用价格组件i-price](https://gitee.com/sonicsunsky/i-price)
+	- [PFUIN: 基于UNI-APP开发跨平台应用的精致移动端组件库](https://gitee.com/panfu/PFUIN)（注：有详细的目录结构说明；该组件库也包括了功能类组件）
 		
 - **功能类组件**
 
@@ -127,6 +137,8 @@ uni-app内置了mpvue（uni-app基于mpvue以及其他开源框架开发而成�
 	- [qrcode: 基于uni-app的二维码生成组件](https://github.com/alei817927/qrcode)
 	- [uniApp-faceScan: UNI-APP 登录模板](https://github.com/xyl66/uniApp-faceScan)
 	- [uniapp-alioss-util: uniapp阿里云oss图片直接上传(不需要后端做签名)](https://github.com/xieyushi/uniapp-alioss-util)
+	- [mimc-uniapp-sdk: 小米即时消息云 MIMC uni-app SDK](https://gitee.com/fulusco/mimc-uniapp-sdk)
+	- [uniFly: 基于uni-app + Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序](https://gitee.com/qzeroq/uniFlyDemo)
 	
 ### 相关工具
 
