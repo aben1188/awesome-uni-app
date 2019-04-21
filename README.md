@@ -1,4 +1,4 @@
-## 跨平台应用前端框架uni-app一站式学习资源/开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+## 跨平台应用前端框架uni-app一站式开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 <br />
 
 **uni-app**是一个基于Vue.js的跨平台多端应用前端开发框架，由数字天堂DCloud开发并开源。
