@@ -158,6 +158,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 ### 相关工具
 
 - [uni-preset-vue：uni-app preset for vue](https://github.com/dcloudio/uni-preset-vue)
+- [miniprogram-to-uniapp 微信小程序转换uni-app](https://github.com/zhangdaren/miniprogram-to-uniapp)
 
 ### 相关文章
 
