@@ -4,10 +4,11 @@
 **uni-app**是一个基于Vue.js的跨平台多端应用前端开发框架，由数字天堂DCloud开发并开源。
 
 通过**uni-app**开发框架，开发者只需编写一套代码，即可同时编译生成如下多个平台的应用：
-- **微信小程序** (包括[QQ轻应用](http://h5.qianbao.qq.com/wiki/articleH5?id=1237)，而[QQ小程序](https://q.qq.com)由于尚在内测中，兼容情况未知，预计支持难度应该也不大)
-- **阿里小程序** (支付宝、淘宝、钉钉、饿了么、高德地图、微博等阿里系App将同时支持)
-- **百度智能小程序** (百度、百度地图、百度网盘、百度贴吧、百度视频、爱奇艺等百度系App将同时支持)
-- **字节跳动小程序** (今日头条、抖音、皮皮虾等字节跳动系App将同时支持)
+- [**微信小程序**](https://mp.weixin.qq.com) (包括[QQ轻应用](http://h5.qianbao.qq.com/wiki/articleH5?id=1237)
+- [**QQ小程序**](https://q.qq.com)
+- [**阿里小程序**](https://mini.open.alipay.com/channel/miniIndex.htm) (支付宝、淘宝、钉钉、饿了么、高德地图、微博等阿里系App将同时支持)
+- [**百度智能小程序**](https://smartprogram.baidu.com) (百度、百度地图、百度网盘、百度贴吧、百度视频、爱奇艺等百度系App将同时支持)
+- [**字节跳动小程序**](https://developer.toutiao.com/) (今日头条、抖音、皮皮虾等字节跳动系App将同时支持)
 - **H5(Web)网站**
 - **Android App**
 - **iOS App**
@@ -27,10 +28,16 @@
 - [uni-app官方插件市场](https://ext.dcloud.net.cn/)
 <br>
 
+- [微信小程序官方网站](https://mp.weixin.qq.com/)
 - [微信小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/)
 - [微信小游戏官方开发文档](https://developers.weixin.qq.com/minigame/dev/)
 - [微信官方开放社区(含开发者社区)](https://developers.weixin.qq.com/community/)
 - [QQ轻应用官方开发文档](http://h5.qianbao.qq.com/wiki/articleH5?id=1237)
+<br>
+
+- [QQ小程序官方网站](https://q.qq.com/)
+- [QQ小程序官方开发文档](https://q.qq.com/wiki/develop/miniprogram/frame/)
+- [QQ小游戏官方开发文档](https://q.qq.com/wiki/develop/game/frame/catalog_structure/)
 <br>
 
 - [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm) （注：现虽然仍名为“支付宝小程序”，但实际上淘宝App已经支持）
