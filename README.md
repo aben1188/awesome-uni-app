@@ -4,7 +4,7 @@
 **uni-app**是一个基于Vue.js的跨平台多端应用前端开发框架，由数字天堂DCloud开发并开源。
 
 通过**uni-app**开发框架，开发者只需编写一套代码，即可同时编译生成如下多个平台的应用：
-- [**微信小程序**](https://mp.weixin.qq.com) (包括[QQ轻应用](http://h5.qianbao.qq.com/wiki/articleH5?id=1237)
+- [**微信小程序**](https://mp.weixin.qq.com) (包括[QQ轻应用](http://h5.qianbao.qq.com/wiki/articleH5?id=1237))
 - [**QQ小程序**](https://q.qq.com)
 - [**阿里小程序**](https://mini.open.alipay.com/channel/miniIndex.htm) (支付宝、淘宝、钉钉、饿了么、高德地图、微博等阿里系App将同时支持)
 - [**百度智能小程序**](https://smartprogram.baidu.com) (百度、百度地图、百度网盘、百度贴吧、百度视频、爱奇艺等百度系App将同时支持)
