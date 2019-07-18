@@ -5,7 +5,7 @@
 
 通过**uni-app**开发框架，开发者只需编写一套代码，即可同时编译生成多个平台的应用。
 
-目前已经支持的平台：
+目前已经支持的应用：
 
 - [**微信小程序**](https://mp.weixin.qq.com) (包括[QQ轻应用](http://h5.qianbao.qq.com/wiki/articleH5?id=1237))
 - [**QQ小程序**](https://q.qq.com)
@@ -16,7 +16,7 @@
 - **Android App**
 - **iOS App**
 
-未来即将支持的平台：
+未来即将支持的应用：
 
 - [**360小程序**](https://mp.360.cn/) (由奇虎360公司推出)
 - [**快应用**](https://www.quickapp.cn/) (由华为、小米、vivo、oppo、一加、魅族等国内主流安卓手机厂商联合推出)
