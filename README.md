@@ -44,7 +44,7 @@
 	- 能力十分出众、经验异常丰富的开发者，以上优先条件可忽略。
 - **不看学历和履历，只看资历和能力**
 
-### :exclamation: 欢迎微信扫码联系(请务必注明<!--“挂靠”或 -->“uni-app开发”以通过验证)：
+### :exclamation: 欢迎微信扫码联系(请务必注明<!--“挂靠”或 -->“uni”以通过验证)：
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
 
