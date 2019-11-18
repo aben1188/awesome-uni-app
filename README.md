@@ -224,6 +224,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 - [uni-app中使用 Vue 注意事项](https://uniapp.dcloud.io/use)
 - [uni-app各环节版本兼容性说明](http://ask.dcloud.net.cn/article/35845)
 - [微信小程序转换uni-app详细指南](https://ask.dcloud.net.cn/article/35786)
+- [谜之wxs，uni-app如何用它大幅提升性能](https://blog.csdn.net/hbcui1984/article/details/101545762)
 
 ### 应用案例
 
