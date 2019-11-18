@@ -218,7 +218,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 - [uni-app 1.4 发布，一套代码，发行小程序（微信/支付宝/百度）、H5、App多个平台](https://blog.csdn.net/hbcui1984/article/details/85706334)
 - [uni-app 1.8 发布，微信端性能翻倍，并增加若干 Vue 语法支持](https://ask.dcloud.net.cn/article/35699)
 - [uni-app 1.9 发布，App平台升级为新版编译器（自定义组件模式），支持更多Vue语法](http://ask.dcloud.net.cn/article/35818)
-- [uni-app 2.2发布，大幅优化H5端性能体验](https://blog.csdn.net/hbcui1984/article/details/99692545)
+- [uni-app 2.2 发布，大幅优化H5端性能体验](https://blog.csdn.net/hbcui1984/article/details/99692545)
 - [uni-app不同编译模式差异说明](https://ask.dcloud.net.cn/article/35843)
 - [uni-app官方教程学习手记](https://segmentfault.com/a/1190000017020710)
 - [uni-app 中使用 Vue 注意事项](https://uniapp.dcloud.io/use)
