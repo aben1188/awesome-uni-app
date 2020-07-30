@@ -46,9 +46,8 @@
 ### :exclamation: 欢迎微信扫码联系(请务必注明“uni”以通过验证)：
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
--->
-
 ---
+-->
 
 - [DCloud官方网站](http://dcloud.io/)
 - [DCloud Github首页](https://github.com/dcloudio)
