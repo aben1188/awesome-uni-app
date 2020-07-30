@@ -206,7 +206,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 
 ### 相关文章
 
-- :NEW: [跨端开发框架深度横评之2020版](https://segmentfault.com/a/1190000022326482)
+- :new: [跨端开发框架深度横评之2020版](https://segmentfault.com/a/1190000022326482)
 - [如何评价 DCloud 推出的 uni-app?](https://www.zhihu.com/question/270413186)
 - [Taro vs uni-app选型对比](https://zhuanlan.zhihu.com/p/55903320)
 - [跨端开发框架深度横评](https://juejin.im/post/5ca1736af265da30ae314248)
