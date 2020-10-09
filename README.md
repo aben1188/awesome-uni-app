@@ -46,8 +46,17 @@
 ### :exclamation: 欢迎微信扫码联系(请务必注明“uni”以通过验证)：
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
----
 -->
+
+#### :point_right: “刨根究底学编程”微信公众号文章推荐
+
+- [码农心中永远的痛，除了月饼和996，还有什么？](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=1&sn=8401789ab8b6ba04d3ec405811815c1d&chksm=ea02bc8add75359ca886ce4e460f0b84daca0d7aa938f849972db70dd3f16b2a38eb9109d229&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
+- [刨根究底CSS](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=2&sn=3776910914f4e8f6fbf9b88cb2858c7f&chksm=ea02bc8add75359cb87cb4fc283d384a5285fcd653ff0a509c184d59715542cdd344d4c380ad&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
+- [刨根究底正则表达式](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=3&sn=fdb05fbfa819a76c0e2385d2d30046ec&chksm=ea02bc8add75359c9c9554a463035420224ea1284f05014a9fd29b374443b91d9fb5ff590097&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
+- [刨根究底字符编码](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=4&sn=caf4028f7b847f7f3b63999d283af824&chksm=ea02bc8add75359c5df15837a92903963519ba59cd1da8252daaffeb1a817287b7521abd7881&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
+
+---
+### uni-app相关资源官方网址
 
 - [DCloud官方网站](http://dcloud.io/)
 - [DCloud Github首页](https://github.com/dcloudio)
@@ -89,7 +98,7 @@
 
 ---
 
-### 特别说明
+### uni-app特别说明
 
 uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所有开源资源都可以用于 uni-app。
 
@@ -100,7 +109,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 - [mpvue项目(组件)迁移指南、示例及资源汇总](https://ask.dcloud.net.cn/article/34945)
 - [awesome-mpvue: mpvue官方开发资源汇总](https://github.com/mpvue/awesome-mpvue/blob/master/README.md)
 
-### 开源项目
+### uni-app开源项目
 
 - [hello-uniapp: uni-app框架演示示例](https://github.com/dcloudio/hello-uniapp)
 - [仿One·一个: 使用uni-app开发的「ONE · 一个」](https://github.com/dcloudio/uni-template-one)
@@ -147,7 +156,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 - [zhihu-uni-app: 基于uni-app开发的仿知乎日报App](https://github.com/oukele/zhihu-uni-app)
 - [uni-app-tice: 使用uni-app框架制作的青少年体测中心](https://github.com/hdyanghj/uni-app-tice)（注：包含了免密码登录、密码登录，设置密码、修改密码、绑定资料、补充资料、个人中心、我要测试、测试列表、测试详情等功能）
 
-### 开源组件
+### uni-app开源组件
 
 - **UI类组件**
 
@@ -199,12 +208,12 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 	- [uniapp-cropper: 图片裁剪组件的uniapp版本](https://github.com/CoryLiu/uniapp-cropper)
 	- [uniapp-wslimg: uniapp版的七牛上传组件](https://github.com/b3241931/uniapp-wslimg)
 	
-### 相关工具
+### uni-app相关工具
 
 - [uni-preset-vue：uni-app preset for vue](https://github.com/dcloudio/uni-preset-vue)
 - [miniprogram-to-uniapp：微信小程序转换为uni-app](https://github.com/zhangdaren/miniprogram-to-uniapp)
 
-### 相关文章
+### uni-app相关文章
 
 - :new: [跨端开发框架深度横评之2020版](https://segmentfault.com/a/1190000022326482)
 - [如何评价 DCloud 推出的 uni-app?](https://www.zhihu.com/question/270413186)
@@ -226,7 +235,7 @@ uni-app 1.8 之前的版本借鉴了部分 mpvue 的实现，因此 mpvue 的所
 - [微信小程序转换uni-app详细指南](https://ask.dcloud.net.cn/article/35786)
 - [谜之wxs，uni-app如何用它大幅提升性能](https://blog.csdn.net/hbcui1984/article/details/101545762)
 
-### 应用案例
+### uni-app应用案例
 
 - [uni-app官方公布的应用案例列表(由官方持续更新)](https://uniapp.dcloud.io/case)
 
