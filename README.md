@@ -84,7 +84,7 @@
 - [QQ小游戏官方开发文档](https://q.qq.com/wiki/develop/game/frame/catalog_structure/)
 <br>
 
-- [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm) （注：现虽然仍名为“支付宝小程序”，但实际上淘宝App已经支持）
+- [阿里小程序官方网站](https://mini.open.alipay.com/channel/miniIndex.htm) （注：现虽然仍名为“支付宝小程序”，但实际上淘宝App也已经支持）
 - [阿里小程序官方开发文档](https://docs.alipay.com/mini/developer/getting-started)
 - [阿里小程序官方开发社区](https://openclub.alipay.com/index.php?c=thread&a=subforum&fid=66)
 <br>
